@@ -5,11 +5,25 @@ One of their major concerns was having a centralized platform where they could h
 Tom Jefferson, the serverless community lead reached out to serverless architect Toyosi for her expertise in building reliable, secure and well architected serverless applications.
 
 # The-Serverless-Raven-Challenge
-Toyosi needs to build a highly reliable serverless platform that allows for the following actions
+Tom Jefferson highlighted the challenges in this project.
 1. Each User should be able to create,update, read and delete their profile.
 2. Each user should be able to create, read, update and delete their posts.
 3. Each user should be able to create, read and delete their comments on any post.
 4. Each serverless service should have its own page for discussions.
+
+# The-Serverless-Raven-Solution
+Toyosi needs to build a highly reliable serverless platform.
+Her proposed solution is to build 
+- A serverless Application with javascript (React in Frontend, Node for Backend)
+- A REST API with AWS API Gateway which supports CRUD functionality 
+- 8-10 lambdas that includes the following CRUD functionality (Create, Read, Update, Delete) and integrates with API Gateway
+- A dynamo Database that stores users posts and comment data.
+- A cognito user pool for user authentication.
+- An S3 bucket for serving static content.
+- A cloudfront edge network for distributed content.
+- An automated infrastructure with Infrastructure as code using Serverless Framework.
+- A CI/CD pipeline using github actions.
+
 
 # The-Serverless-Raven Technologies and Services
 - React
