@@ -25,6 +25,11 @@ Her proposed solution is to build
 - A CI/CD pipeline using github actions.
 
 
+# The-Serverless-Raven-Architecture
+This architecture highights the AWS serverless services used, the communication between the services and the flow of data within the application.
+
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
+
 # The-Serverless-Raven Technologies and Services
 - React
 - Nodejs
@@ -39,12 +44,6 @@ Her proposed solution is to build
 - Cloud Formation
 - Serverless Framework
 - Github Actions
-
-
-# The-Serverless-Raven-Architecture
-This architecture highights the AWS serverless services used, the communication between the services and the flow of data within the application.
-
-![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
 
 
 # The-Serverless-Raven-Application
