@@ -27,4 +27,5 @@ Toyosi needs to build a highly reliable serverless platform that allows for the 
 
 # The-Serverless-Raven-Architecture
 This architecture highights the AWS serverless services used,the communication between the services and the flow of data within the application.
+
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
