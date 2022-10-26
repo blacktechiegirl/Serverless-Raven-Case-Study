@@ -11,7 +11,7 @@ Toyosi needs to build a highly reliable serverless platform that allows for the 
 3. Each user should be able to create, read and delete their comments on any post.
 4. Each serverless service should have its own page for discussions.
 
-# The-Serverless-Raven-Tools
+# The-Serverless-Raven-Tools and Services
 - API Gateway
 - Lambda Function
 - Amazon Dynamo DB
@@ -26,4 +26,5 @@ Toyosi needs to build a highly reliable serverless platform that allows for the 
 
 
 # The-Serverless-Raven-Architecture
+This architecture highights the AWS serverless services used,the communication between the services and the flow of data within the application.
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
