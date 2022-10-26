@@ -11,4 +11,4 @@ Toyosi needs to build a highly reliable serverless platform that allows for the 
 3. Each user should be able to create, read and delete their comments on any post.
 4. Each serverless service should have its own page for discussions.
 
-![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study.git/blob/main/assets/serverless-raven.png?raw=true)
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
