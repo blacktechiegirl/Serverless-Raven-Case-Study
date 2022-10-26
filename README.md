@@ -52,3 +52,11 @@ A very big congratulations to the serverless community !
 The serverless Raven is live ...............
 
 Get started on https://d3rmglbssclayt.cloudfront.net/
+
+# The-Serverless-Raven-Backend
+Here is the Backend Repository
+https://github.com/blacktechiegirl/The-Serverless-Raven-Backend
+
+# The-Serverless-Raven-Frontend
+Here is the Frontend Repository
+https://github.com/blacktechiegirl/The-Serverless-Raven-Frontend
